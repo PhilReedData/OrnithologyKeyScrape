@@ -23,7 +23,7 @@ html_head = """<html>
 </head>
 <body>
 <h1>Key to Scientific Names in Ornithology</h1>
-<table><tr><th>entry></th><th>defintion</th></tr>
+<table><tr><th>Name></th><th>Definition</th></tr>
 """
 
 html_tail = '</body></html>'
